@@ -2,9 +2,9 @@
 
 ### Desenvolvedor Web
 
-Sou desenvolvedor web focado na criação de aplicações responsivas e funcionais, buscando evoluir constantemente através de projetos práticos e novos desafios.
+Sou desenvolvedor web focado na criação de aplicações responsivas, funcionais e completas, buscando evoluir constantemente através de projetos práticos e novos desafios.
 
-Atualmente trabalho principalmente com **HTML, CSS e JavaScript**, além de estar desenvolvendo meus conhecimentos em **Node.js, Express e PostgreSQL**.
+Atualmente trabalho principalmente com **HTML, CSS e JavaScript**, além de experiência prática com **Node.js, Express e PostgreSQL**, desenvolvida principalmente através da construção de aplicações Full Stack.
 
 ## 🛠️ Tecnologias
 
@@ -21,17 +21,21 @@ Atualmente trabalho principalmente com **HTML, CSS e JavaScript**, além de esta
 
 ## 🚀 Projetos em destaque
 
-### 🏋️ NovaFit
-Landing page responsiva desenvolvida para praticar semântica HTML, web design, responsividade e interações com JavaScript.
+### 📋 SistemaSolicitacoes
 
-**Tecnologias:** HTML, CSS e JavaScript
+Sistema web Full Stack desenvolvido para gerenciamento de solicitações, com autenticação de usuários, controle de acesso por níveis, cadastro e gerenciamento de solicitações, responsáveis e tipos de serviço.
 
-- 🔗 [Ver projeto online](https://ninicdev.github.io/novafit-landing-page/)
-- 💻 [Ver código](https://github.com/NinicDev/novafit-landing-page)
+O projeto conta com **API REST, autenticação com JWT, PostgreSQL, validação de dados, recuperação e verificação de e-mail, upload de anexos, geração de PDFs, filtros, paginação e integração com serviços externos**.
+
+**Tecnologias:** Node.js, Express, JavaScript, PostgreSQL, HTML, CSS, JWT e REST API.
+
+- 🔗 [Ver projeto online](SEU_LINK_DO_SISTEMA)
+- 💻 [Ver código](https://github.com/NinicDev/SistemaSolicitacoes)
 
 ---
 
 ### 🌦️ Previsão do Tempo
+
 Aplicação web que consome uma API para pesquisar cidades e exibir informações meteorológicas, trabalhando requisições assíncronas, tratamento de dados e estados de erro.
 
 **Tecnologias:** HTML, CSS, JavaScript e API REST
@@ -42,6 +46,7 @@ Aplicação web que consome uma API para pesquisar cidades e exibir informaçõe
 ---
 
 ### 🧮 Calculadora
+
 Calculadora web desenvolvida com foco em lógica de programação e manipulação do DOM, incluindo validação de expressões, suporte a teclado e histórico de operações.
 
 **Tecnologias:** HTML, CSS e JavaScript
@@ -53,6 +58,5 @@ Calculadora web desenvolvida com foco em lógica de programação e manipulaçã
 
 Estou aberto a oportunidades, projetos freelance e conexões na área de desenvolvimento web.
 
-- 💼 LinkedIn: em breve
+- 💼 LinkedIn: [linkedin.com/in/nicolas-andrade-dev](https://www.linkedin.com/in/nicolas-andrade-dev/)
 - 📧 E-mail: nicolasnipe@gmail.com
-
