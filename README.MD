@@ -21,7 +21,7 @@ Atualmente trabalho principalmente com **HTML, CSS e JavaScript**, além de expe
 
 ## 🚀 Projetos em destaque
 
-### 📋 Sistema de Solicitacoes
+### 📋 Sistema de Solicitações
 
 Sistema web Full Stack desenvolvido para gerenciamento de solicitações, com autenticação de usuários, controle de acesso por níveis, cadastro e gerenciamento de solicitações, responsáveis e tipos de serviço.
 
